@@ -1,0 +1,10 @@
+// const fs = require('fs');
+// fs.writeFileSync('notes.txt', 'text');
+// fs.appendFileSync('notes.txt', 'New text');
+
+// const add = require('./utils.js');
+// console.log(add(3, 4));
+
+// const fun = require('./notes.js');
+// const str = fun();
+// console.log(str);
